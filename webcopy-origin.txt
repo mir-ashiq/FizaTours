@@ -1,0 +1,3580 @@
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\serveworldtours.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\11.html
+Content Type: text/html
+
+Uri: /
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index.htm
+Content Type: text/html
+
+Uri: /about-us/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\about-us\index.htm
+Content Type: text/html
+
+Uri: /book-now/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\book-now\index.htm
+Content Type: text/html
+
+Uri: /comments/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /destinations/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\destinations\index.htm
+Content Type: text/html
+
+Uri: /feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /gallery/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\gallery\index.htm
+Content Type: text/html
+
+Uri: /packages/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\packages\index.htm
+Content Type: text/html
+
+Uri: /privacy-policy/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: /privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.10
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\css\main.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=4.10
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\js\app.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-google_maps.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/formidable/css/formidableforms.css?ver=1062030
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\css\formidableforms-1.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/formidable/css/formidableforms.css?ver=9301610
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\css\formidableforms.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/formidable/images/ajax_loader.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\images\ajax_loader.gif
+Content Type: image/gif
+
+Uri: /wp-content/plugins/formidable/js/frm.min.js?ver=6.15
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\js\frm.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: /wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: /wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-180x180.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-180x180.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-192x192.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-192x192.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-32x32.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-32x32.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/dallake.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\dallake.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/garden.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\garden.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/gulmarg-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\gulmarg-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/gulmarg-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\gulmarg-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-1024x713.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-1024x713.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-300x209.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-300x209.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-768x535.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-768x535.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/img024.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img024.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img025.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img025.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img026.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img026.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img027.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img027.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img028.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img028.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img029.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img029.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img13.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img13.jpg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/img8.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img8.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-1024x642.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-1024x642.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-300x188.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-300x188.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-768x481.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-768x481.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/ladhak.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\ladhak.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-1681485_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-1681485_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-1024x682.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-1024x682.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-300x200.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-300x200.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-768x512.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-768x512.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/leh-ladak-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\leh-ladak-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountain-hut-4664186_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountain-hut-4664186_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountains-5969476_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountains-5969476_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountains-6508015_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountains-6508015_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/pahalgam-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\pahalgam-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/pahalgam1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\pahalgam1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/phlgham.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\phlgham.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/ratti-gali-lake-2669170_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\ratti-gali-lake-2669170_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/logo-1024x601.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-1024x601.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo-300x176.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-300x176.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo-768x450.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-768x450.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/sonmarg-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\sonmarg-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/Sonmarg_rishav7336-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\Sonmarg_rishav7336-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/Tulip_festival_687x478.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\Tulip_festival_687x478.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/view-lake-1979x2048-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\view-lake-1979x2048-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/3d-4n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\3d-4n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/3d-4n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\3d-4n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/4d-5n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\4d-5n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/4d-5n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\4d-5n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Jammu-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Jammu-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Jammu-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Jammu-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Jammu-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Jammu-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Jammu-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Jammu-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Srinagar-Gurez-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Srinagar-Gurez-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Srinagar-Gurez-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Srinagar-Gurez-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.20-PM-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.20-PM-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM-2-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM-2-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/elementor/css/post-128.css?ver=1719423457
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-128.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-15.css?ver=1724320821
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-264.css?ver=1724091000
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-264.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-3.css?ver=1724353755
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-3.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-380.css?ver=1724091444
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-380.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-396.css?ver=1719423278
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-396.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-442.css?ver=1724147759
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-442.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-472.css?ver=1719422676
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-472.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-74.css?ver=1719423212
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-74.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-9.css?ver=1719283235
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: /wp-includes/css/dist/block-library/style.min.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: /wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: /wp-json/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fbook-now%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fbook-now%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fdestinations%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fdestinations%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fpackages%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fpackages%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: /wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/264
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\264
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/380
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\380
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/396
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\396
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/442
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\442
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/472
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\472
+Content Type: application/json
+
+Uri: /xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xmlrpc.php
+Content Type: text/xml
+
+
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Lawrence_E._Rosen.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Library_(computing)
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Library_(computing).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/List_of_free-content_licences
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\List_of_free-content_licences.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Mosaic_(web_browser)
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Mosaic_(web_browser).html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Once_Upon_a_Forest
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Once_Upon_a_Forest.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Open-source_license
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Open-source_license.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Open_Source_Definition
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Open_Source_Definition.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Opposition_research
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Opposition_research.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Permissive_software_license
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Permissive_software_license.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Poul-Henning_Kamp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Poul-Henning_Kamp.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/PowerBook_180
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\PowerBook_180.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Regents_of_the_University_of_California
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Regents_of_the_University_of_California.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Remix_culture
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Remix_culture.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Software_license
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Software_license.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Source_code
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Source_code.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Comparison_of_free_and_open-source_software_licenses
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\SpecialRecentChangesLinked\Comparison_of_free_and_open-source_software_licenses.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Special:WhatLinksHere/Comparison_of_free_and_open-source_software_licenses
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\SpecialWhatLinksHere\Comparison_of_free_and_open-source_software_licenses.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Talk:Comparison_of_free_and_open-source_software_licences
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\TalkComparison_of_free_and_open-source_software_licences.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Talk:Comparison_of_free_and_open-source_software_licenses
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\TalkComparison_of_free_and_open-source_software_licenses.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/TI-89_series
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\TI-89_series.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Timex_Datalink
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Timex_Datalink.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Trademark
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Trademark.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Usenet
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Usenet.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/User:Tantek
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\UserTantek.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Vassal_state
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Vassal_state.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Wikipedia:Please_clarify
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\WikipediaPlease_clarify.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Wikipedia:Vagueness
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\WikipediaVagueness.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Yin_and_yang
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Yin_and_yang.html
+Content Type: text/html
+
+Uri: https://en.wikiquote.org/wiki/Tomorrowland_(film)
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Tomorrowland_(film).html
+Content Type: text/html
+
+Uri: https://es.wikipedia.org/wiki/Anexo:Comparación_de_licencias_de_software_libre
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\AnexoComparación_de_licencias_de_software_libre.html
+Content Type: text/html
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_77tgUdgL2xYzHOEFYLIf1-kATkEom1PWrqzIEja6Bww.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_77tgUdgL2xYzHOEFYLIf1-kATkEom1PWrqzIEja6Bww.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_9_gqB6h_tK8iyjBEb886XpboOcF8bsEgT_wl76vckqI.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_9_gqB6h_tK8iyjBEb886XpboOcF8bsEgT_wl76vckqI.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_crDev05xDJVnmxPsasFbdxMvdxDA1tuItOUPEaTVogA.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_crDev05xDJVnmxPsasFbdxMvdxDA1tuItOUPEaTVogA.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_fkcHgLiQBPvCLZJHKYdX7CaTedWH8UbLwL1AQuOZV9A.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_fkcHgLiQBPvCLZJHKYdX7CaTedWH8UbLwL1AQuOZV9A.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_gChM9nrNNko-1aMouw-x74imp7kzUzJKLomkEQ4u8qQ.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_gChM9nrNNko-1aMouw-x74imp7kzUzJKLomkEQ4u8qQ.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_M152uOnalZ6QfPsz9YMHd2sNPt-U7s2Twx2Lj26gryA.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_M152uOnalZ6QfPsz9YMHd2sNPt-U7s2Twx2Lj26gryA.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_nJH-uVKVhefvOPmfi3mPSlI9MqpeN6WLmS6EbWdKNC0.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_nJH-uVKVhefvOPmfi3mPSlI9MqpeN6WLmS6EbWdKNC0.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_OguOnR4ZRWSfkf4xrKwqIhVCw6Fmp8zJZT1reWJclls.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_OguOnR4ZRWSfkf4xrKwqIhVCw6Fmp8zJZT1reWJclls.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_RLIxPGQ2v_yOJcsVnDalcK2pZETJNnYbZSr1I4VhrBc.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_RLIxPGQ2v_yOJcsVnDalcK2pZETJNnYbZSr1I4VhrBc.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_SpwXl5ANk0Pyg5xBFSovR5qUkMoaEE_6uak0acFKU8w.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_SpwXl5ANk0Pyg5xBFSovR5qUkMoaEE_6uak0acFKU8w.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_tjk6ja88e3mjglC50lmeeMAwpr4Pozk_yVhAIuNgq3E.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_tjk6ja88e3mjglC50lmeeMAwpr4Pozk_yVhAIuNgq3E.jpg
+Content Type: image/jpeg
+
+Uri: https://fastly.4sqi.net/img/general/width960/476_wiYEJTxjdxLl_vZFlLefP9O8b-Jv9R12Q92ANKZXhSA.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\img\general\width960\476_wiYEJTxjdxLl_vZFlLefP9O8b-Jv9R12Q92ANKZXhSA.jpg
+Content Type: image/jpeg
+
+Uri: https://fed.brid.gy/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-8.htm
+Content Type: text/html
+
+Uri: https://films.cwru.edu/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-64.htm
+Content Type: text/html
+
+Uri: https://flickr.com/photos/meyerweb/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photos\meyerweb\index.htm
+Content Type: text/html
+
+Uri: https://flickr.com/search/?user_id=tantek&tags=press&view_all=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\search\index.htm
+Content Type: text/html
+
+Uri: https://flyingmeat.com/acorn/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\acorn\index.htm
+Content Type: text/html
+
+Uri: https://fontawesome.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-87.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\serveworldtours.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fr.wikipedia.org/wiki/Liste_de_licences_libres
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Liste_de_licences_libres.html
+Content Type: text/html
+
+Uri: https://genuary.art/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-59.htm
+Content Type: text/html
+
+Uri: https://github.com/bkardell/bcd-watch
+File Name: C:\Downloaded Web Sites\serveworldtours.com\bkardell\bcd-watch.html
+Content Type: text/html
+
+Uri: https://github.com/foocorp/hacienda/issues/13
+File Name: C:\Downloaded Web Sites\serveworldtours.com\foocorp\hacienda\issues\13.html
+Content Type: text/html
+
+Uri: https://github.com/gobengo
+File Name: C:\Downloaded Web Sites\serveworldtours.com\gobengo.html
+Content Type: text/html
+
+Uri: https://github.com/manton
+File Name: C:\Downloaded Web Sites\serveworldtours.com\manton.html
+Content Type: text/html
+
+Uri: https://github.com/mdn/browser-compat-data
+File Name: C:\Downloaded Web Sites\serveworldtours.com\mdn\browser-compat-data.html
+Content Type: text/html
+
+Uri: https://github.com/meyerweb
+File Name: C:\Downloaded Web Sites\serveworldtours.com\meyerweb.html
+Content Type: text/html
+
+Uri: https://github.com/meyerweb/csstdg5figs
+File Name: C:\Downloaded Web Sites\serveworldtours.com\meyerweb\csstdg5figs.html
+Content Type: text/html
+
+Uri: https://github.com/orgs/w3c/projects/57/views/1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\orgs\w3c\projects\57\views\1.html
+Content Type: text/html
+
+Uri: https://github.com/plehegar
+File Name: C:\Downloaded Web Sites\serveworldtours.com\plehegar.html
+Content Type: text/html
+
+Uri: https://github.com/swicg/potential-charters/pull/3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\swicg\potential-charters\pull\3.html
+Content Type: text/html
+
+Uri: https://github.com/tantek
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\index.htm
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/actions
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\actions.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/activity
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\activity.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/.gitignore
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\.gitignore.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/cassis-lab.php
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\cassis-lab.php.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/cassis.js
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\cassis.js.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/cassis.php
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\cassis.php.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/composer.json
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\composer.json.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/contributors.txt
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\contributors.txt.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/package.json
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\package.json.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/phpunit.xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\phpunit.xml.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/post-process.php
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\post-process.php.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/blob/main/README.md
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\blob\main\README.md.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/branches
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\branches.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/commits/main/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\commits\main\index.htm
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/contributors_list?count=10&current_repository=cassis&items_to_show=10
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\contributors_list.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/graphs/contributors
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\graphs\contributors.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/issues
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\issues.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/projects?query=is:open
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\projects.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/pulls
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\pulls.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/pulse
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\pulse.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/releases
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\releases.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/releases/tag/v0.3.19425
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\releases\tag\v0.3.19425.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/security
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\security.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/spoofed_commit_check/e39dfacee6844559517f28d4bd39464afbea897e
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\spoofed_commit_check\e39dfacee6844559517f28d4bd39464afbea897e.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/tags
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\tags.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/tree/main/js-tests
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\tree\main\js-tests.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/tree/main/php-tests
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\tree\main\php-tests.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/tree/main/test-data
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\tree\main\test-data.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/watchers
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\watchers.html
+Content Type: text/html
+
+Uri: https://github.com/tantek/cassis/wiki
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\cassis\wiki.html
+Content Type: text/html
+
+Uri: https://github.com/tantek?tab=packages&repo_name=cassis
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek-1.html
+Content Type: text/html
+
+Uri: https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c-fedid\Administration\blob\main\proposals-CG-WG.md.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues/113
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues\113.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues/126
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues\126.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues/13
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues\13.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues/163
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues\163.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/issues/64
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\issues\64.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/pull/175
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\pull\175.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/AB-public/pull/183
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\AB-public\pull\183.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/strategy/issues/435
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\strategy\issues\435.html
+Content Type: text/html
+
+Uri: https://github.com/w3c/tpac2024-breakouts/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\tpac2024-breakouts\index.htm
+Content Type: text/html
+
+Uri: https://github.com/w3c/tpac2024-breakouts/issues/87
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w3c\tpac2024-breakouts\issues\87.html
+Content Type: text/html
+
+Uri: https://gmpg.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-4.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\1.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/and/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\and\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/background
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\background.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/creator
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\creator.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/default.css
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\default.css
+Content Type: text/css
+
+Uri: https://gmpg.org/xfn/faq
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\faq.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/feedback
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\feedback.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/helping
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\helping.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/index
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\index.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/intro
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\intro.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/join
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\join.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/more
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\more.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/pix/intro/five-acqfr.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\pix\intro\five-acqfr.gif
+Content Type: image/gif
+
+Uri: https://gmpg.org/xfn/pix/intro/five-lovefam.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\pix\intro\five-lovefam.gif
+Content Type: image/gif
+
+Uri: https://gmpg.org/xfn/pix/intro/five-met.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\pix\intro\five-met.gif
+Content Type: image/gif
+
+Uri: https://gmpg.org/xfn/pix/intro/five-prof.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\pix\intro\five-prof.gif
+Content Type: image/gif
+
+Uri: https://gmpg.org/xfn/press
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\press.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/thanks
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\thanks.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/tools
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\tools.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/xfn-btn.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xfn\xfn-btn.gif
+Content Type: image/gif
+
+Uri: https://gmpg.org/xmdp/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xmdp\index.htm
+Content Type: text/html
+
+Uri: https://h2vx.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-21.htm
+Content Type: text/html
+
+Uri: https://i0.wp.com/ma.tt/files/2024/01/cropped-matt-favicon.png?fit=180%2C180&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\01\cropped-matt-favicon-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/01/cropped-matt-favicon.png?fit=192%2C192&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\01\cropped-matt-favicon-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/01/cropped-matt-favicon.png?fit=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\01\cropped-matt-favicon.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/74274e25-bd00-400e-8a38-a318259ef37f.jpg?resize=195%2C146&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\74274e25-bd00-400e-8a38-a318259ef37f-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/74274e25-bd00-400e-8a38-a318259ef37f.jpg?resize=400%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\74274e25-bd00-400e-8a38-a318259ef37f.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/74274e25-bd00-400e-8a38-a318259ef37f.jpg?w=400&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\74274e25-bd00-400e-8a38-a318259ef37f-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1-768x1024.jpeg?resize=604%2C805&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1.jpeg?resize=158%2C210&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1.jpeg?resize=345%2C460&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1.jpeg?resize=555%2C740&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1.jpeg?resize=768%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_07423D7B158B-1.jpeg?w=960&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_07423D7B158B-1-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large-768x1024.jpeg?resize=604%2C805&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large.jpeg?resize=158%2C210&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large.jpeg?resize=345%2C460&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large.jpeg?resize=555%2C740&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large.jpeg?resize=768%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7626-Large.jpeg?w=960&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7626-Large-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large-768x1024.jpeg?resize=604%2C805&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large.jpeg?resize=158%2C210&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large.jpeg?resize=345%2C460&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large.jpeg?resize=555%2C740&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large.jpeg?resize=768%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_7671-Large.jpeg?w=960&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_7671-Large-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_8804-scaled.jpeg?resize=604%2C270&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_8804-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_8804-scaled.jpeg?zoom=2&resize=604%2C270
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_8804-scaled-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/08/IMG_8804-scaled.jpeg?zoom=3&resize=604%2C270
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\08\IMG_8804-scaled-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking-1024x523.png?resize=604%2C308&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-1024x523.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=1024%2C523&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=1536%2C785&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-4.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=195%2C100&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=768%2C392&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=840%2C429&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?resize=900%2C460&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-5.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?w=1208
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-7.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?w=1812
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-8.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Ecosystem-Thinking.png?w=2000&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Ecosystem-Thinking-6.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Timex_Ironman_Triathlon_Datalink.jpeg?resize=144%2C210&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Timex_Ironman_Triathlon_Datalink-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Timex_Ironman_Triathlon_Datalink.jpeg?resize=315%2C460&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Timex_Ironman_Triathlon_Datalink-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Timex_Ironman_Triathlon_Datalink.jpeg?resize=507%2C740&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Timex_Ironman_Triathlon_Datalink-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Timex_Ironman_Triathlon_Datalink.jpeg?resize=604%2C882&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Timex_Ironman_Triathlon_Datalink.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/ma.tt/files/2024/09/Timex_Ironman_Triathlon_Datalink.jpeg?w=685&ssl=1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ma.tt\files\2024\09\Timex_Ironman_Triathlon_Datalink-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iamthedj.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-74.htm
+Content Type: text/html
+
+Uri: https://indieauth.com/openid
+File Name: C:\Downloaded Web Sites\serveworldtours.com\openid.html
+Content Type: text/html
+
+Uri: https://indieweb.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-16.htm
+Content Type: text/html
+
+Uri: https://indieweb.org/2013/osfw3c
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2013\osfw3c
+Content Type: text/html
+
+Uri: https://indieweb.org/2024/Portland
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\Portland.html
+Content Type: text/html
+
+Uri: https://indieweb.org/authorship
+File Name: C:\Downloaded Web Sites\serveworldtours.com\authorship.html
+Content Type: text/html
+
+Uri: https://indieweb.org/cook_what_you_want
+File Name: C:\Downloaded Web Sites\serveworldtours.com\cook_what_you_want.html
+Content Type: text/html
+
+Uri: https://indieweb.org/digital_garden
+File Name: C:\Downloaded Web Sites\serveworldtours.com\digital_garden.html
+Content Type: text/html
+
+Uri: https://indieweb.org/events
+File Name: C:\Downloaded Web Sites\serveworldtours.com\events.html
+Content Type: text/html
+
+Uri: https://indieweb.org/events/2020-08-19-hwc-west-coast
+File Name: C:\Downloaded Web Sites\serveworldtours.com\events\2020-08-19-hwc-west-coast.html
+Content Type: text/html
+
+Uri: https://indieweb.org/Falcon
+File Name: C:\Downloaded Web Sites\serveworldtours.com\Falcon.html
+Content Type: text/html
+
+Uri: https://indieweb.org/founders
+File Name: C:\Downloaded Web Sites\serveworldtours.com\founders.html
+Content Type: text/html
+
+Uri: https://indieweb.org/Halloween
+File Name: C:\Downloaded Web Sites\serveworldtours.com\Halloween.html
+Content Type: text/html
+
+Uri: https://indieweb.org/images/b/b8/im-building-indiewebcamp.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\images\b\b8\im-building-indiewebcamp.png
+Content Type: image/png
+
+Uri: https://indieweb.org/IndieMark
+File Name: C:\Downloaded Web Sites\serveworldtours.com\IndieMark.html
+Content Type: text/html
+
+Uri: https://indieweb.org/October
+File Name: C:\Downloaded Web Sites\serveworldtours.com\October.html
+Content Type: text/html
+
+Uri: https://indieweb.org/POSSE
+File Name: C:\Downloaded Web Sites\serveworldtours.com\POSSE.html
+Content Type: text/html
+
+Uri: https://indieweb.org/post-type-discovery
+File Name: C:\Downloaded Web Sites\serveworldtours.com\post-type-discovery.html
+Content Type: text/html
+
+Uri: https://indieweb.org/principles
+File Name: C:\Downloaded Web Sites\serveworldtours.com\principles.html
+Content Type: text/html
+
+Uri: https://indieweb.org/User:Tantek.com
+File Name: C:\Downloaded Web Sites\serveworldtours.com\UserTantek.com.html
+Content Type: text/html
+
+Uri: https://indieweb.org/webactions
+File Name: C:\Downloaded Web Sites\serveworldtours.com\webactions.html
+Content Type: text/html
+
+Uri: https://inktober.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-9.htm
+Content Type: text/html
+
+Uri: https://it.wikipedia.org/wiki/Comparazione_di_licenze_di_software_libero
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Comparazione_di_licenze_di_software_libero.html
+Content Type: text/html
+
+Uri: https://jetpack.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-25.htm
+Content Type: text/html
+
+Uri: https://jordanhillier.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-40.htm
+Content Type: text/html
+
+Uri: https://joshuadavis.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-58.htm
+Content Type: text/html
+
+Uri: https://kenrockwell.com/nikon/d5.htm
+File Name: C:\Downloaded Web Sites\serveworldtours.com\nikon\d5.htm
+Content Type: text/html
+
+Uri: https://library.si.edu/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-65.htm
+Content Type: text/html
+
+Uri: https://looptober.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-10.htm
+Content Type: text/html
+
+Uri: https://ma.tt/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-2.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/08/anbernic-sol-and-daylight/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\08\anbernic-sol-and-daylight\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/08/happy-birthday-stephen/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\08\happy-birthday-stephen\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/08/jeff-jarvis/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\08\jeff-jarvis\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/08/people-wanted/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\08\people-wanted\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/are-investors-bad/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\are-investors-bad\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/charitable-contributions/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\charitable-contributions\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/inside-out-2/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\inside-out-2\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/missing-spokespeople/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\missing-spokespeople\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/multidots-support/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\multidots-support\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/on-theprimeagen/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\on-theprimeagen\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/on-wp-engine/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\on-wp-engine\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/t3/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\t3\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/timex-datalink/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\timex-datalink\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/09/wordpress-engine/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\wordpress-engine\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/10/cnbc-on-wp-engine/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\10\cnbc-on-wp-engine\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/2024/10/rhino-dehorning/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\10\rhino-dehorning\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/about/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\about\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/author/saxmatt/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\author\saxmatt\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/blog-content/mu-plugins/jp-lite-youtube-embed/jp-lite-youtube-embed.min.css?ver=0.3.2-5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\mu-plugins\jp-lite-youtube-embed\jp-lite-youtube-embed.min.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/mu-plugins/jp-lite-youtube-embed/lite-yt-embed.min.js?ver=0.3.2-5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\mu-plugins\jp-lite-youtube-embed\lite-yt-embed.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/gravatar-enhanced/build/hovercards.js?ver=8068b2a428cf4c47a185
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gravatar-enhanced\build\hovercards.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/gravatar-enhanced/build/style-hovercards.css?ver=8068b2a428cf4c47a185
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gravatar-enhanced\build\style-hovercards.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/gutenberg/build/block-library/blocks/gallery/style.css?ver=19.3.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gutenberg\build\block-library\blocks\gallery\style.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/gutenberg/build/hooks/index.min.js?ver=3aee234ea7807d8d70bc
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gutenberg\build\hooks\index.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/gutenberg/build/i18n/index.min.js?ver=5baa98e4345eccc97e24
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gutenberg\build\i18n\index.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/gutenberg/build/url/index.min.js?ver=e74ad4bf74882e4e920c
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\gutenberg\build\url\index.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/jetpack_vendor/automattic/jetpack-assets/build/i18n-loader.js?minify=true&ver=becd7d9884bc1b331e45
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\jetpack_vendor\automattic\jetpack-assets\build\i18n-loader.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?minify=false&ver=ed5f0bf26bb40618865e
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\jetpack_vendor\automattic\jetpack-search\build\instant-search\jp-search.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/modules/carousel/jetpack-carousel.css?ver=14.0-a.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\modules\carousel\jetpack-carousel.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/modules/carousel/swiper-bundle.css?ver=14.0-a.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\modules\carousel\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/modules/infinite-scroll/infinity.css?ver=20140422
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\modules\infinite-scroll\infinity.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/modules/infinite-scroll/themes/twentythirteen.css?ver=20130409
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\modules\infinite-scroll\themes\twentythirteen.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/modules/tiled-gallery/tiled-gallery/tiled-gallery.css?ver=2023-08-21
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\modules\tiled-gallery\tiled-gallery\tiled-gallery.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/_inc/build/carousel/jetpack-carousel.min.js?ver=14.0-a.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\_inc\build\carousel\jetpack-carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/_inc/build/infinite-scroll/infinity.min.js?ver=14.0-a.1-is5.0.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\_inc\build\infinite-scroll\infinity.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js?ver=14.0-a.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\_inc\build\tiled-gallery\tiled-gallery\tiled-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/plugins/jetpack-dev/_inc/genericons/genericons/genericons.css?ver=3.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\jetpack-dev\_inc\genericons\genericons\genericons.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/plugins/wp-parsely/build/loader.js?ver=71d37502d12f3838b80d
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\plugins\wp-parsely\build\loader.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/css/twentythirteen.min.css
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\css\twentythirteen.min.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/i/favicon-summer.ico
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\i\favicon-summer.ico
+Content Type: image/x-icon
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/i/summer/header-2x.avif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\i\summer\header-2x.avif
+Content Type: 
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/i/summer/header-2x.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\i\summer\header-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/js/base-functions.js?ver=6.7-beta2-59199
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\js\base-functions.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/js/matt.js?ver=1719254596
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\js\matt.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog-content/themes/ma.tt/style.css?ver=1723646206
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\ma.tt\style.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/themes/twentythirteen/css/blocks.css?ver=20240520
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\twentythirteen\css\blocks.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/themes/twentythirteen/fonts/source-sans-pro-plus-bitter.css?ver=20230328
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\twentythirteen\fonts\source-sans-pro-plus-bitter.css
+Content Type: text/css
+
+Uri: https://ma.tt/blog-content/themes/twentythirteen/images/headers/circle.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog-content\themes\twentythirteen\images\headers\circle.png
+Content Type: image/png
+
+Uri: https://ma.tt/blog/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://ma.tt/blog/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\blog\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://ma.tt/category/asides/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\asides\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/automattic/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\automattic\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/meta/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\meta\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/personal/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\personal\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/press/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\press\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/quote/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\quote\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/travel/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\travel\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/category/wordpress/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\category\wordpress\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/comments/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://ma.tt/contact/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://ma.tt/page/2/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\page\2\index.htm
+Content Type: text/html
+
+Uri: https://ma.tt/wp-json/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://mail.creativecommons.org/subscribe
+File Name: C:\Downloaded Web Sites\serveworldtours.com\subscribe.html
+Content Type: text/html
+
+Uri: https://marginalrevolution.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-27.htm
+Content Type: text/html
+
+Uri: https://mastodon.social/@creativecommons
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@creativecommons.html
+Content Type: text/html
+
+Uri: https://mastodon.social/@meyerweb
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@meyerweb.html
+Content Type: text/html
+
+Uri: https://mathober.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-11.htm
+Content Type: text/html
+
+Uri: https://metagrrrl.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-75.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-3.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/books/css-tdg/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\books\css-tdg\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/books/css-tdg/cover-sm.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\books\css-tdg\cover-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://meyerweb.com/eric/books/css-tdg/ed-fourth/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\books\css-tdg\ed-fourth\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/books/external/dfrl.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\books\external\dfrl.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/eric/css/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\css\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/cwru/mst3keg/mst3kf.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\cwru\mst3keg\mst3kf.html
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/talks/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\talks\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2011/06/03/spinning-the-web/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2011\06\03\spinning-the-web\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2023\12\06\three-decades-of-html\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2023\12\21\pixelating-live-with-svg\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2023/12/31/2023-in-brief-review/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2023\12\31\2023-in-brief-review\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2024/01/02/once-upon-a-browser/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2024\01\02\once-upon-a-browser\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2024\02\05\bookmarklet-load-all-github-comments\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2024\06\07\a-decade-later-a-decade-lost\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2024/07/22/design-for-real-life-news/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2024\07\22\design-for-real-life-news\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\2024\09\23\announcing-bcd-watch\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/design/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\design\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/hacks/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\hacks\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/books/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\books\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/carolyn/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\carolyn\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/history/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\history\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/parenting/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\parenting\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/projects/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\projects\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/rebecca/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\rebecca\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/rss2/full/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\rss2\full\index.htm
+Content Type: application/rss+xml
+
+Uri: https://meyerweb.com/eric/thoughts/category/personal/writing/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\personal\writing\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/browsers/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\browsers\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/css/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\css\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/javascript/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\javascript\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/rss2/full/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\rss2\full\index.htm
+Content Type: application/rss+xml
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/svg/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\svg\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/tools/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\tools\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/web/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\web\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/category/tech/xhtml/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\category\tech\xhtml\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/feed/?scope=full
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://meyerweb.com/eric/thoughts/page/2/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\page\2\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/thoughts/wp-content/themes/meyerweb-2020/style.css
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\wp-content\themes\meyerweb-2020\style.css
+Content Type: text/css
+
+Uri: https://meyerweb.com/eric/thoughts/wp-content/uploads/bcd-watch-01.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\wp-content\uploads\bcd-watch-01.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/eric/thoughts/wp-content/uploads/wikipedia-home-pixelated.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\wp-content\uploads\wikipedia-home-pixelated.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/eric/thoughts/wp-content/uploads/wikipedia-home-svged.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\wp-content\uploads\wikipedia-home-svged.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/eric/thoughts/wp-content/uploads/wikipedia-home.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\thoughts\wp-content\uploads\wikipedia-home.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/eric/tools/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\tools\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/eric/writing.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\eric\writing.html
+Content Type: text/html
+
+Uri: https://meyerweb.com/favicon.ico
+File Name: C:\Downloaded Web Sites\serveworldtours.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://meyerweb.com/feeds/excuse/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\feeds\excuse\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/feeds/excuse/rss20.xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\feeds\excuse\rss20.xml
+Content Type: application/xml
+
+Uri: https://meyerweb.com/once-upon-a-browser/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\once-upon-a-browser\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/once-upon-a-browser/2023-12/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\once-upon-a-browser\2023-12\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/once-upon-a-browser/2023-12/google.com-2023-11-25.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\once-upon-a-browser\2023-12\google.com-2023-11-25.jpg
+Content Type: image/jpeg
+
+Uri: https://meyerweb.com/other/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\other\index.htm
+Content Type: text/html
+
+Uri: https://meyerweb.com/pix/icons/codepen.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\codepen.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/pix/icons/dribbble.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\dribbble.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/pix/icons/flickr.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\flickr.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/pix/icons/github.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\github.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/pix/icons/linkedin.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\linkedin.png
+Content Type: image/png
+
+Uri: https://meyerweb.com/pix/icons/mastodon.svg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\pix\icons\mastodon.svg
+Content Type: image/svg+xml
+
+Uri: https://meyerweb.com/ui/about.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ui\about.html
+Content Type: text/html
+
+Uri: https://meyerweb.com/ui/meyerweb.css
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ui\meyerweb.css
+Content Type: text/css
+
+Uri: https://meyerweb.github.io/csstdg5figs/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\csstdg5figs\index.htm
+Content Type: text/html
+
+Uri: https://micro.blog/t
+File Name: C:\Downloaded Web Sites\serveworldtours.com\t.html
+Content Type: text/html
+
+Uri: https://modretro.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-45.htm
+Content Type: text/html
+
+Uri: https://network.creativecommons.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-82.htm
+Content Type: text/html
+
+Uri: https://newfold.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-39.htm
+Content Type: text/html
+
+Uri: https://opensource.creativecommons.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-86.htm
+Content Type: text/html
+
+Uri: https://opensource.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-36.htm
+Content Type: text/html
+
+Uri: https://oss.capital/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-35.htm
+Content Type: text/html
+
+Uri: https://paulgraham.com/cities.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\cities.html
+Content Type: text/html
+
+Uri: https://paulgraham.com/hp.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\hp.html
+Content Type: text/html
+
+Uri: https://pocketcasts.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-29.htm
+Content Type: text/html
+
+Uri: https://rolexsydneyhobart.com/the-yachts/2023/oroton-drumfire/?raceId=176&SeriesId=2
+File Name: C:\Downloaded Web Sites\serveworldtours.com\the-yachts\2023\oroton-drumfire\index-1.htm
+Content Type: text/html
+
+Uri: https://search.creativecommons.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-85.htm
+Content Type: text/html
+
+Uri: /
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index.htm
+Content Type: text/html
+
+Uri: /about-us/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\about-us\index.htm
+Content Type: text/html
+
+Uri: /book-now/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\book-now\index.htm
+Content Type: text/html
+
+Uri: /comments/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /destinations/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\destinations\index.htm
+Content Type: text/html
+
+Uri: /feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /gallery/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\gallery\index.htm
+Content Type: text/html
+
+Uri: /packages/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\packages\index.htm
+Content Type: text/html
+
+Uri: /privacy-policy/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: /privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: /wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.10
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\css\main.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=4.10
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\js\app.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-google_maps.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.24.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.8
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: /wp-content/plugins/formidable/css/formidableforms.css?ver=1062030
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\css\formidableforms-1.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/formidable/css/formidableforms.css?ver=9301610
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\css\formidableforms.css
+Content Type: text/css
+
+Uri: /wp-content/plugins/formidable/images/ajax_loader.gif
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\images\ajax_loader.gif
+Content Type: image/gif
+
+Uri: /wp-content/plugins/formidable/js/frm.min.js?ver=6.15
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\plugins\formidable\js\frm.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: /wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: /wp-content/themes/hello-elementor/style.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: /wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-180x180.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-180x180.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-192x192.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-192x192.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/cropped-img026-32x32.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\cropped-img026-32x32.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/dallake.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\dallake.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/garden.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\garden.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/gulmarg-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\gulmarg-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/gulmarg-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\gulmarg-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-1024x713.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-1024x713.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-300x209.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-300x209.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280-768x535.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280-768x535.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/horses-208827_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\horses-208827_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/img024.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img024.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img025.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img025.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img026.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img026.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img027.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img027.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img028.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img028.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img029.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img029.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/img13.jpg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img13.jpg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/img8.png
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\img8.png
+Content Type: image/png
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-1024x642.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-1024x642.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-300x188.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-300x188.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat-768x481.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat-768x481.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/kashmiri_houseboat.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\kashmiri_houseboat.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/ladhak.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\ladhak.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-1681485_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-1681485_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-1024x682.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-1024x682.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-300x200.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-300x200.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280-768x512.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280-768x512.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/lake-6701636_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\lake-6701636_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/leh-ladak-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\leh-ladak-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountain-hut-4664186_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountain-hut-4664186_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountains-5969476_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountains-5969476_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/mountains-6508015_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\mountains-6508015_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/pahalgam-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\pahalgam-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/pahalgam1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\pahalgam1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/phlgham.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\phlgham.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/ratti-gali-lake-2669170_1280.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\ratti-gali-lake-2669170_1280.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/logo-1024x601.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-1024x601.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo-300x176.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-300x176.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo-768x450.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo-768x450.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/logo.jpeg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\logo.jpeg
+Content Type: image/jpeg
+
+Uri: /wp-content/uploads/2024/06/sonmarg-scaled-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\sonmarg-scaled-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/Sonmarg_rishav7336-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\Sonmarg_rishav7336-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/Tulip_festival_687x478.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\Tulip_festival_687x478.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/06/view-lake-1979x2048-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\06\view-lake-1979x2048-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/3d-4n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\3d-4n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/3d-4n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\3d-4n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/4d-5n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\4d-5n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/4d-5n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\4d-5n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Jammu-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Jammu-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Jammu-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Jammu-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Srinagar-Premium-2-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Srinagar-Premium-2-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/5d-6n-Srinagar-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\5d-6n-Srinagar-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Jammu-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Jammu-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Jammu-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Jammu-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Srinagar-Gurez-Premium-4-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Srinagar-Gurez-Premium-4-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/6d-7n-Srinagar-Gurez-Premium-6-person.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\6d-7n-Srinagar-Gurez-Premium-6-person.pdf
+Content Type: application/pdf
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.20-PM-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.20-PM-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM-1.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM-1.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM-2-scaled.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM-2-scaled.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-4.21.21-PM.webp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-16-at-4.21.21-PM.webp
+Content Type: image/webp
+
+Uri: /wp-content/uploads/elementor/css/post-128.css?ver=1719423457
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-128.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-15.css?ver=1724320821
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-15.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-264.css?ver=1724091000
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-264.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-3.css?ver=1724353755
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-3.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-380.css?ver=1724091444
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-380.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-396.css?ver=1719423278
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-396.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-442.css?ver=1724147759
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-442.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-472.css?ver=1719422676
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-472.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-74.css?ver=1719423212
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-74.css
+Content Type: text/css
+
+Uri: /wp-content/uploads/elementor/css/post-9.css?ver=1719283235
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: /wp-includes/css/dist/block-library/style.min.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: /wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: /wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: /wp-json/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fbook-now%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fbook-now%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fdestinations%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fdestinations%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fpackages%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fpackages%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fserveworldtours.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: /wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/264
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\264
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/380
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\380
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/396
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\396
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/442
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\442
+Content Type: application/json
+
+Uri: /wp-json/wp/v2/pages/472
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wp-json\wp\v2\pages\472
+Content Type: application/json
+
+Uri: /xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://simplebits.shop/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-69.htm
+Content Type: text/html
+
+Uri: https://solreader.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-46.htm
+Content Type: text/html
+
+Uri: https://stackoverflow.com/questions/37451189/can-one-pixelate-images-with-an-svg-filter
+File Name: C:\Downloaded Web Sites\serveworldtours.com\questions\37451189\can-one-pixelate-images-with-an-svg-filter.html
+Content Type: text/html
+
+Uri: https://stats.wp.com/e-202441.js
+File Name: C:\Downloaded Web Sites\serveworldtours.com\e-202441.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/w.js?ver=202441
+File Name: C:\Downloaded Web Sites\serveworldtours.com\w.js
+Content Type: application/javascript
+
+Uri: https://stephaniestimac.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-54.htm
+Content Type: text/html
+
+Uri: https://stopdesign.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-68.htm
+Content Type: text/html
+
+Uri: https://support.github.com/request/landing
+File Name: C:\Downloaded Web Sites\serveworldtours.com\request\landing.html
+Content Type: text/html
+
+Uri: https://swarmapp.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-44.htm
+Content Type: text/html
+
+Uri: https://t.me/+oMWZJFfyMok2ZmUz
+File Name: C:\Downloaded Web Sites\serveworldtours.com\ oMWZJFfyMok2ZmUz.html
+Content Type: text/html
+
+Uri: https://tantek.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-7.htm
+Content Type: text/html
+
+Uri: https://tantek.com/2023/022/t1/indieweb-eat-what-you-cook
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2023\022\t1\indieweb-eat-what-you-cook.html
+Content Type: text/html
+
+Uri: https://tantek.com/2023/023/t3/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2023\023\t3\index.htm
+Content Type: text/html
+
+Uri: https://tantek.com/2023/132/t1/agenda-gardening-metaphors
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2023\132\t1\agenda-gardening-metaphors.html
+Content Type: text/html
+
+Uri: https://tantek.com/2023/262/b1/w3c-technical-plenary-tpac
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2023\262\b1\w3c-technical-plenary-tpac.html
+Content Type: text/html
+
+Uri: https://tantek.com/2024/180/b1/responsible-inventing
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\180\b1\responsible-inventing.html
+Content Type: text/html
+
+Uri: https://tantek.com/2024/216/t1/socialcg-telcon
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\216\t1\socialcg-telcon.html
+Content Type: text/html
+
+Uri: https://tantek.com/2024/247/t4/w3c-link-checker-before-federating
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\247\t4\w3c-link-checker-before-federating.html
+Content Type: text/html
+
+Uri: https://tantek.com/2024/263/t1/20-years-undohtml-css-resets
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\263\t1\20-years-undohtml-css-resets.html
+Content Type: text/html
+
+Uri: https://tantek.com/2024/277/t2/october-blogtober-indieweb
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\277\t2\october-blogtober-indieweb.html
+Content Type: text/html
+
+Uri: https://technorati.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-5.htm
+Content Type: text/html
+
+Uri: https://timeistightmusic.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-71.htm
+Content Type: text/html
+
+Uri: https://tokens.indieauth.com/token
+File Name: C:\Downloaded Web Sites\serveworldtours.com\token.html
+Content Type: text/html
+
+Uri: https://tradingeconomics.com/south-africa/unemployment-rate
+File Name: C:\Downloaded Web Sites\serveworldtours.com\south-africa\unemployment-rate.html
+Content Type: text/html
+
+Uri: https://trainedmonkey.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-77.htm
+Content Type: text/html
+
+Uri: https://us.ultimateears.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-42.htm
+Content Type: text/html
+
+Uri: https://us.wordcamp.org/2024/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\index-1.htm
+Content Type: text/html
+
+Uri: https://us.wordcamp.org/2024/livestream/friday-mt-hood/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\livestream\friday-mt-hood\index.htm
+Content Type: text/html
+
+Uri: https://us.wordcamp.org/2024/session/an-in-person-qa-with-matt-mullenweg/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\session\an-in-person-qa-with-matt-mullenweg\index.htm
+Content Type: text/html
+
+Uri: https://violentmonkey.github.io/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-57.htm
+Content Type: text/html
+
+Uri: https://waterpigs.co.uk/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-22.htm
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20110902144221/http:/www.once-upon-a-forest.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\web\20110902144221\http\www.once-upon-a-forest.com\index.htm
+Content Type: text/html
+
+Uri: https://web.dev/baseline
+File Name: C:\Downloaded Web Sites\serveworldtours.com\baseline.html
+Content Type: text/html
+
+Uri: https://weblog.anniegreens.lol/2024/10/loltober-2024
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\10\loltober-2024.html
+Content Type: text/html
+
+Uri: https://webmention.io/tantek.com/webmention
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek.com\webmention.html
+Content Type: text/html
+
+Uri: https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Best_practices_for_attribution.html
+Content Type: text/html
+
+Uri: https://wiki.creativecommons.org/wiki/License_Versions
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\License_Versions.html
+Content Type: text/html
+
+Uri: https://wiki.mozilla.org/Standards
+File Name: C:\Downloaded Web Sites\serveworldtours.com\Standards.html
+Content Type: text/html
+
+Uri: https://wiki.mozilla.org/Tantek-Mozilla-projects
+File Name: C:\Downloaded Web Sites\serveworldtours.com\Tantek-Mozilla-projects.html
+Content Type: text/html
+
+Uri: https://wordpress.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-24.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-50.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/10up/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\10up\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/automattic/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\automattic\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/awesome-motive/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\awesome-motive\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/godaddy/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\godaddy\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/google/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\google\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/hostinger-international/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\hostinger-international\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/five-for-the-future/pledge/wp-engine/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\five-for-the-future\pledge\wp-engine\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/news/2024/09/wp-engine-banned/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\news\2024\09\wp-engine-banned\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/news/2024/09/wp-engine/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\news\2024\09\wp-engine\index.htm
+Content Type: text/html
+
+Uri: https://wpengine.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-34.htm
+Content Type: text/html
+
+Uri: https://wpengine.com/newsroom/leadership-team/heather-brunner/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\newsroom\leadership-team\heather-brunner\index.htm
+Content Type: text/html
+
+Uri: https://writings.stephenwolfram.com/2024/08/five-most-productive-years-what-happened-and-whats-next/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\08\five-most-productive-years-what-happened-and-whats-next\index.htm
+Content Type: text/html
+
+Uri: https://www.amazon.com/dp/0465062881
+File Name: C:\Downloaded Web Sites\serveworldtours.com\dp\0465062881.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/WHAT-WOULD-GOOGLE-Jeff-Jarvis/dp/0061709697
+File Name: C:\Downloaded Web Sites\serveworldtours.com\WHAT-WOULD-GOOGLE-Jeff-Jarvis\dp\0061709697.html
+Content Type: text/html
+
+Uri: https://www.baumanrarebooks.com/rare-books/shackleton-ernest/heart-of-the-antarctic/112302.aspx
+File Name: C:\Downloaded Web Sites\serveworldtours.com\rare-books\shackleton-ernest\heart-of-the-antarctic\112302.aspx.html
+Content Type: text/html
+
+Uri: https://www.bloomberg.com/news/articles/2024-08-13/doj-considers-seeking-google-goog-breakup-after-major-antitrust-win
+File Name: C:\Downloaded Web Sites\serveworldtours.com\news\articles\2024-08-13\doj-considers-seeking-google-goog-breakup-after-major-antitrust-win.html
+Content Type: text/html
+
+Uri: https://www.caveofthemounds.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-62.htm
+Content Type: text/html
+
+Uri: https://www.classy.org/give/313412/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\give\313412\index.htm
+Content Type: text/html
+
+Uri: https://www.cnbc.com/2024/10/05/wordpress-ceo-matt-mullenweg-goes-nuclear-on-silver-lake-wp-engine-.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\10\05\wordpress-ceo-matt-mullenweg-goes-nuclear-on-silver-lake-wp-engine-.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/creativecommons
+File Name: C:\Downloaded Web Sites\serveworldtours.com\creativecommons-1.html
+Content Type: text/html
+
+Uri: https://www.feedster.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.flickr.com/people/tantek/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\people\tantek\index.htm
+Content Type: text/html
+
+Uri: https://www.ietf.org/slides/slides-aicontrolws-creative-commons-position-paper-on-preference-signals-00.pdf
+File Name: C:\Downloaded Web Sites\serveworldtours.com\slides\slides-aicontrolws-creative-commons-position-paper-on-preference-signals-00.pdf
+Content Type: application/pdf
+
+Uri: https://www.imdb.com/name/nm8414793/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\name\nm8414793\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/evalottchen/p/DAiNm3ZtuTj/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\evalottchen\p\DAiNm3ZtuTj\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/herman__music/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\herman__music\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/maxacamp/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\maxacamp\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/tantek/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\tantek\index.htm
+Content Type: text/html
+
+Uri: https://www.jluster.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-72.htm
+Content Type: text/html
+
+Uri: https://www.lifewithalacrity.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-67.htm
+Content Type: text/html
+
+Uri: https://www.llama.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-37.htm
+Content Type: text/html
+
+Uri: https://www.molly.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-70.htm
+Content Type: text/html
+
+Uri: https://www.mozilla.org/en-US/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\en-US\index.htm
+Content Type: text/html
+
+Uri: https://www.multidots.com/updates/taking-a-stand-for-the-wordpress-ecosystem-why-we-must-all-give-back/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\updates\taking-a-stand-for-the-wordpress-ecosystem-why-we-must-all-give-back\index.htm
+Content Type: text/html
+
+Uri: https://www.pixar.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-41.htm
+Content Type: text/html
+
+Uri: https://www.reddit.com/user/photomatt/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\user\photomatt\index.htm
+Content Type: text/html
+
+Uri: https://www.rfc-editor.org/rfc/rfc9518.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\rfc\rfc9518.html
+Content Type: text/html
+
+Uri: https://www.rolexsydneyhobart.com/the-yachts/2023/oroton-drumfire/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\the-yachts\2023\oroton-drumfire\index.htm
+Content Type: text/html
+
+Uri: https://www.sarawb.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-56.htm
+Content Type: text/html
+
+Uri: https://www.savetherhino.org/thorny-issues/de-horning/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\thorny-issues\de-horning\index.htm
+Content Type: text/html
+
+Uri: https://www.scientificamerican.com/article/the-hard-truth-about-the-rhino-horn-aphrodisiac-market/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\article\the-hard-truth-about-the-rhino-horn-aphrodisiac-market\index.htm
+Content Type: text/html
+
+Uri: https://www.silverlake.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-38.htm
+Content Type: text/html
+
+Uri: https://www.silverlake.com/people/lee-wittlinger/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\people\lee-wittlinger\index.htm
+Content Type: text/html
+
+Uri: https://www.smithsonianmag.com/smart-news/shackleton-probably-never-took-out-an-ad-seeking-men-for-a-hazardous-journey-5552379/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\smart-news\shackleton-probably-never-took-out-an-ad-seeking-men-for-a-hazardous-journey-5552379\index.htm
+Content Type: text/html
+
+Uri: https://www.stanford.edu/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-19.htm
+Content Type: text/html
+
+Uri: https://www.thehouseontherock.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-63.htm
+Content Type: text/html
+
+Uri: https://www.threads.net/@photomatt/post/DA0WWnTsESD
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@photomatt\post\DA0WWnTsESD.html
+Content Type: text/html
+
+Uri: https://www.threads.net/@tantek
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@tantek.html
+Content Type: text/html
+
+Uri: https://www.tumblr.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-31.htm
+Content Type: text/html
+
+Uri: https://www.tumblr.com/photomatt
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt.html
+Content Type: text/html
+
+Uri: https://www.w3.org/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.w3.org/2002/ab/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2002\ab\index.htm
+Content Type: text/html
+
+Uri: https://www.w3.org/2024/09/24-css-minutes.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\24-css-minutes.html
+Content Type: text/html
+
+Uri: https://www.w3.org/2024/09/25-vision-minutes.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\25-vision-minutes.html
+Content Type: text/html
+
+Uri: https://www.w3.org/2024/09/26-tpac-minutes.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\26-tpac-minutes.html
+Content Type: text/html
+
+Uri: https://www.w3.org/2024/09/TPAC/breakouts.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\09\TPAC\breakouts.html
+Content Type: text/html
+
+Uri: https://www.w3.org/groups/wg/css/participants/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\groups\wg\css\participants\index.htm
+Content Type: text/html
+
+Uri: https://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt
+File Name: C:\Downloaded Web Sites\serveworldtours.com\MarkUp\draft-ietf-iiir-html-01.txt
+Content Type: text/plain
+
+Uri: https://www.w3.org/membership/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\membership\index.htm
+Content Type: text/html
+
+Uri: https://www.w3.org/StyleSheets/TR/W3C-REC
+File Name: C:\Downloaded Web Sites\serveworldtours.com\StyleSheets\TR\W3C-REC
+Content Type: text/css
+
+Uri: https://www.w3.org/TR/CSS21/selector.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\CSS21\selector.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/appendix/notes.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\appendix\notes.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/charset.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\charset.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/conform.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\conform.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/cover.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\cover.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/frameset.dtd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\frameset.dtd
+Content Type: text/plain
+
+Uri: https://www.w3.org/TR/html401/HTMLlat1.ent
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\HTMLlat1.ent
+Content Type: application/xml-external-parsed-entity
+
+Uri: https://www.w3.org/TR/html401/HTMLspecial.ent
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\HTMLspecial.ent
+Content Type: application/xml-external-parsed-entity
+
+Uri: https://www.w3.org/TR/html401/HTMLsymbol.ent
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\HTMLsymbol.ent
+Content Type: application/xml-external-parsed-entity
+
+Uri: https://www.w3.org/TR/html401/index/attributes.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\index\attributes.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/index/elements.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\index\elements.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/index/list.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\index\list.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/interact/scripts.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\interact\scripts.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/loose.dtd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\loose.dtd
+Content Type: text/plain
+
+Uri: https://www.w3.org/TR/html401/present/frames.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\present\frames.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/present/graphics.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\present\graphics.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/present/styles.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\present\styles.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/references.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\references.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/sgml/dtd.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\sgml\dtd.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/sgml/entities.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\sgml\entities.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/sgml/framesetdtd.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\sgml\framesetdtd.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/sgml/intro.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\sgml\intro.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/sgml/loosedtd.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\sgml\loosedtd.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/strict.dtd
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\strict.dtd
+Content Type: text/plain
+
+Uri: https://www.w3.org/TR/html401/struct/dirlang.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\dirlang.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/struct/global.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\global.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/struct/links.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\links.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/struct/objects.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\objects.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/struct/tables.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\tables.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/struct/text.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\struct\text.html
+Content Type: text/html
+
+Uri: https://www.w3.org/TR/html401/style/default.css
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\style\default.css
+Content Type: text/css
+
+Uri: https://www.w3.org/TR/html401/types.html
+File Name: C:\Downloaded Web Sites\serveworldtours.com\TR\html401\types.html
+Content Type: text/html
+
+Uri: https://www.w3.org/wiki/SocialCG
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\SocialCG.html
+Content Type: text/html
+
+Uri: https://www.w3.org/wiki/SocialCG/WG_Charter_Discussion
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\SocialCG\WG_Charter_Discussion.html
+Content Type: text/html
+
+Uri: https://www.w3.org/wiki/Socialwg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Socialwg.html
+Content Type: text/html
+
+Uri: https://www.w3.org/wiki/TPAC/2024
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\TPAC\2024.html
+Content Type: text/html
+
+Uri: https://www.wikidata.org/wiki/Q3244141
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\Q3244141.html
+Content Type: text/html
+
+Uri: https://www.wisdells.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-61.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/@LGR
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@LGR.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/@t3dotgg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@t3dotgg.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/9M6zT0mRvW0?feature=oembed
+File Name: C:\Downloaded Web Sites\serveworldtours.com\embed\9M6zT0mRvW0.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/GCHHzw4s5W4?feature=oembed
+File Name: C:\Downloaded Web Sites\serveworldtours.com\embed\GCHHzw4s5W4.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/H6F0PgMcKWM?feature=oembed
+File Name: C:\Downloaded Web Sites\serveworldtours.com\embed\H6F0PgMcKWM.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/OUJgahHjAKU?feature=oembed
+File Name: C:\Downloaded Web Sites\serveworldtours.com\embed\OUJgahHjAKU.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=3vTD8rnrlYk
+File Name: C:\Downloaded Web Sites\serveworldtours.com\watch-2.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=9sBuHwQpwAU
+File Name: C:\Downloaded Web Sites\serveworldtours.com\watch-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=fnI-QcVSwMU
+File Name: C:\Downloaded Web Sites\serveworldtours.com\watch-3.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=XoTToRfM3iA
+File Name: C:\Downloaded Web Sites\serveworldtours.com\watch.html
+Content Type: text/html
+
+Uri: https://x.com/anjankatta
+File Name: C:\Downloaded Web Sites\serveworldtours.com\anjankatta.html
+Content Type: text/html
+
+Uri: https://x.com/asindotcc
+File Name: C:\Downloaded Web Sites\serveworldtours.com\asindotcc.html
+Content Type: text/html
+
+Uri: https://x.com/cassisjs
+File Name: C:\Downloaded Web Sites\serveworldtours.com\cassisjs.html
+Content Type: text/html
+
+Uri: https://x.com/creativecommons
+File Name: C:\Downloaded Web Sites\serveworldtours.com\creativecommons.html
+Content Type: text/html
+
+Uri: https://x.com/falcon
+File Name: C:\Downloaded Web Sites\serveworldtours.com\falcon-1.html
+Content Type: text/html
+
+Uri: https://x.com/h2vx
+File Name: C:\Downloaded Web Sites\serveworldtours.com\h2vx.html
+Content Type: text/html
+
+Uri: https://x.com/html5now
+File Name: C:\Downloaded Web Sites\serveworldtours.com\html5now.html
+Content Type: text/html
+
+Uri: https://x.com/indiewebcamp
+File Name: C:\Downloaded Web Sites\serveworldtours.com\indiewebcamp.html
+Content Type: text/html
+
+Uri: https://x.com/microformats
+File Name: C:\Downloaded Web Sites\serveworldtours.com\microformats.html
+Content Type: text/html
+
+Uri: https://x.com/photomatt
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt-1.html
+Content Type: text/html
+
+Uri: https://x.com/photomatt/status/1836862087320195174
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt\status\1836862087320195174.html
+Content Type: text/html
+
+Uri: https://x.com/photomatt/status/1839134832846327894
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt\status\1839134832846327894.html
+Content Type: text/html
+
+Uri: https://x.com/photomatt/status/1840115470768451991
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt\status\1840115470768451991.html
+Content Type: text/html
+
+Uri: https://x.com/photomatt/with_replies
+File Name: C:\Downloaded Web Sites\serveworldtours.com\photomatt\with_replies.html
+Content Type: text/html
+
+Uri: https://x.com/t/statuses/916632211
+File Name: C:\Downloaded Web Sites\serveworldtours.com\t\statuses\916632211.html
+Content Type: text/html
+
+Uri: https://x.com/t3dotgg
+File Name: C:\Downloaded Web Sites\serveworldtours.com\t3dotgg.html
+Content Type: text/html
+
+Uri: https://xoxo.zone/@t
+File Name: C:\Downloaded Web Sites\serveworldtours.com\@t.html
+Content Type: text/html
+
+Uri: https://xoxofest.com/2024/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\2024\index.htm
+Content Type: text/html
+
+Uri: https://zeldman.com/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\index-78.htm
+Content Type: text/html
+
+Uri: https://zenhabits.net/beginner/
+File Name: C:\Downloaded Web Sites\serveworldtours.com\beginner\index.htm
+Content Type: text/html
+
+Uri: https://zh.wikipedia.org/wiki/自由及開放原始碼軟體授權條款比較
+File Name: C:\Downloaded Web Sites\serveworldtours.com\wiki\自由及開放原始碼軟體授權條款比較.html
+Content Type: text/html
+
