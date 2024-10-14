@@ -33,6 +33,17 @@
 			padding: 0 !important;
 		}
 	</style>
+	<style>
+		.floating-button {
+			cursor: pointer;
+			z-index: 99999999;
+		}
+		.phone-button .button-content img,
+		.fb-messenger-button .button-content img {
+			width: 50px;
+			height: 50px;
+		}
+	</style>
 	<style id='classic-theme-styles-inline-css'>
 		/*! This file is auto-generated */
 		.wp-block-button__link {
@@ -750,7 +761,7 @@
 							data-id="68c3594" data-element_type="widget" data-widget_type="html.default">
 							<div class="elementor-widget-container">
 								<div class="frm_forms with_frm_style frm_style_formidable-style" id="frm_form_1_container">
-									<form action="https://formsubmit.co/imseldrith@gmail.com" method="POST" class="frm-show-form" id="form_booking-form">
+									<form action="https://formsubmit.co/meerashiq242@gmail.com" method="POST" class="frm-show-form" id="form_booking-form">
 										<div class="frm_form_fields">
 											<fieldset>
 												<legend class="frm_screen_reader">Booking Form</legend>
@@ -1147,6 +1158,32 @@
 	</div>
 	<span class="ht_ctc_chat_data" data-no_number=""
 		data-settings="{&quot;number&quot;:&quot;919469743700&quot;,&quot;pre_filled&quot;:&quot;Hi \r\nGlad you are here&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 15px; right: 15px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 15px; right: 15px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animations&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;click to chat&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}"></span>
+	<!-- Phone Button -->
+    <div class="floating-button phone-button" id="phone-button" style="display: none; position: fixed; bottom: 75px; right: 15px;">
+        <div class="button-content">
+            <a href="tel:+917006949386" style="text-decoration: none; color: white;">
+                <img src="wp-content/uploads/2024/06/phone-icon.png" alt="Phone" style="width: 50px; height: 50px;">
+            </a>
+        </div>
+    </div>
+
+    <!-- Facebook Messenger Button -->
+    <div class="floating-button fb-messenger-button" id="fb-messenger-button" style="display: none; position: fixed; bottom: 135px; right: 15px;">
+        <div class="button-content">
+            <a href="https://m.me/yourpage" target="_blank" style="text-decoration: none; color: white;">
+                <img src="wp-content/uploads/2024/06/messenger-icon.png" alt="Facebook Messenger" style="width: 50px; height: 50px;">
+            </a>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Show the buttons
+            document.getElementById('ht-ctc-chat').style.display = 'block';
+            document.getElementById('phone-button').style.display = 'block';
+            document.getElementById('fb-messenger-button').style.display = 'block';
+        });
+    </script>
 	<script type='text/javascript'>
 		const lazyloadRunObserver = () => {
 			const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
