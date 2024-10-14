@@ -1312,7 +1312,34 @@
 	</script>
 	<script src="/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.8"
 		id="elementskit-elementor-js"></script>
+        <script>
+        document.getElementById('booking-form').addEventListener('submit', function(e) {
+            e.preventDefault(); // Prevent default form submission
 
+            // Fetch form data
+            fetch(this.action, {
+                method: 'POST',
+                body: new FormData(this),
+                headers: {
+                    'Accept': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    // Hide the form and display the success message
+                    document.getElementById('frm_form_1_container').innerHTML = `
+                        <div class="success-message">
+                            <p>Your responses were successfully submitted. Thank you!</p>
+                        </div>
+                    `;
+                } else {
+                    alert('There was an error submitting the form.');
+                }
+            }).catch(error => {
+                console.error('Error:', error);
+                alert('There was an error submitting the form.');
+            });
+        });
+	</script>
 </body>
 
 </html>
