@@ -807,26 +807,37 @@
 										</div>
 									</form>
 									<script>
-										document.getElementById('form_booking-form').addEventListener('submit', function(e) {
+										document.getElementById('booking-form').addEventListener('submit', function(e) {
 										    e.preventDefault();
-										    
-										    // Here you would normally send the form data to formsubmit.io
-										    // For demonstration, we're just showing the success message immediately
-										    
-										    document.getElementById('booking-form-container').innerHTML = `
-										        <div class="elementor-element elementor-element-68c3594 elementor-widget elementor-widget-html" data-id="68c3594" data-element_type="widget" data-widget_type="html.default">
-										            <div class="elementor-widget-container">
-										                <div class="frm_forms with_frm_style frm_style_formidable-style" id="frm_form_1_container">
-										                    <div class="frm_message" role="status">
-										                        <p>Your responses were successfully submitted. Thank you!</p>
+										
+										    fetch(this.action, {
+										        method: 'POST',
+										        body: new FormData(this),
+										        headers: {
+										            'Accept': 'application/json'
+										        }
+										    }).then(response => {
+										        if (response.ok) {
+										            // Replace form with success message
+										            document.getElementById('frm_form_1_container').innerHTML = `
+										                <div class="elementor-element elementor-element-68c3594 elementor-widget elementor-widget-html" data-id="68c3594" data-element_type="widget" data-widget_type="html.default">
+										                    <div class="elementor-widget-container">
+										                        <div class="frm_forms with_frm_style frm_style_formidable-style" id="frm_form_1_container">
+										                            <div class="frm_message" role="status">
+										                                <p>Your responses were successfully submitted. Thank you!</p>
+										                            </div>
+										                        </div>
 										                    </div>
 										                </div>
-										            </div>
-										        </div>
-										    `;
+										            `;
+										        } else {
+										            throw new Error('Form submission failed');
+										        }
+										    }).catch(error => {
+										        console.error('Error:', error);
+										    });
 										});
 										</script>
-
 								</div>								
 							</div>
 						</div>
